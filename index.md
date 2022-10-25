@@ -1,5 +1,5 @@
 ---
-title: Portaltech Reply ❤️ Opensource
+title: Vanilla Reply ❤️ Opensource
 ---
 Have a ❤️-warming welcome. We are happy that you found our GitHub Page!
 
